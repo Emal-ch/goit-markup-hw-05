@@ -52,7 +52,6 @@ img {
   width: 100%;
   height: auto;
 }
-
 .container {
   max-width: 1158px;
   margin: 0 auto;
@@ -654,6 +653,7 @@ img {
 }
 
 .modal-form {
+  /* padding: 0 24px; */
 }
 .modal-form-field {
   display: block;
